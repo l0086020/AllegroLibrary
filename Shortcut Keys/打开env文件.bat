@@ -1,0 +1,1 @@
+explorer c:\Cadence\SPB_17.4\share\pcb\text\
