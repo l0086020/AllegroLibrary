@@ -1,0 +1,258 @@
+\t (00:00:02) allegro 23.1 S004 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sat Sep 28 22:59:15 2024
+\t (00:00:02)         Host=DESKTOP-6KIH52D User=XTAY Pid=146552 CPUs=16
+\t (00:00:02) CmdLine= c:\program files\cadence\tools\bin\allegro.exe C:\Users\XTAY\Desktop\DOING\AllegroLibrary\PCB_LIB\HEADER_1x4P_2R54.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "HEADER_1x4P_2R54"
+\d (00:00:04) Design opened: C:/Users/XTAY/Desktop/DOING/AllegroLibrary/PCB_LIB/HEADER_1x4P_2R54.dra
+   (00:00:05) Loading cmds.cxt 
+\i (00:00:05) trapsize 998
+\i (00:00:05) trapsize 1025
+\i (00:00:05) trapsize 998
+\i (00:00:05) trapsize 839
+\i (00:00:05) trapsize 945
+\i (00:00:05) trapsize 675
+\i (00:00:05) updateport CVPane
+\i (00:00:05) shapeedit 
+\i (00:00:07) move 
+\t (00:00:08) Select element(s) to move.
+\i (00:00:10) pick grid -3.8877 -0.0536
+\t (00:00:10) last pick:  -3.8100 0.0000
+\t (00:00:10) last pick:  -3.8100 0.0000
+\t (00:00:10) Pick new location for the element(s).
+\i (00:00:13) prepopup -4.7782 1.3226
+\i (00:00:14) cancel 
+\i (00:00:14) shapeedit 
+\i (00:00:15) pick grid -4.0496 0.1758
+\t (00:00:15) last pick:  -3.8100 0.0000
+\i (00:00:17) pick grid -3.8338 3.8456
+\t (00:00:17) last pick:  -3.8100 3.8100
+\i (00:00:17) pick grid -6.0465 2.3345
+\t (00:00:17) last pick:  -6.3500 2.5400
+\i (00:00:17) pick grid -7.3552 1.3361
+\t (00:00:17) last pick:  -7.6200 1.2700
+\i (00:00:17) move 
+\t (00:00:18) Select element(s) to move.
+\i (00:00:18) pick grid -3.9822 -0.0131
+\t (00:00:18) last pick:  -3.8100 0.0000
+\t (00:00:18) last pick:  -3.8100 0.0000
+\t (00:00:18) Pick new location for the element(s).
+\i (00:00:19) pick grid -7.3282 2.2266
+\t (00:00:19) last pick:  -7.6200 2.5400
+\i (00:00:19) move 
+\t (00:00:19) Select element(s) to move.
+\i (00:00:20) pick grid -1.2838 0.3647
+\t (00:00:20) last pick:  -1.2700 0.6350
+\t (00:00:20) last pick:  -1.2700 0.0000
+\t (00:00:20) Pick new location for the element(s).
+\i (00:00:20) pick grid 0.4702 4.1694
+\t (00:00:20) last pick:  0.6350 4.4450
+\i (00:00:21) pick grid 1.6305 -0.0266
+\t (00:00:21) last pick:  1.9050 0.0000
+\t (00:00:21) last pick:  1.2700 0.0000
+\t (00:00:21) Pick new location for the element(s).
+\i (00:00:21) pick grid -4.3869 1.6060
+\t (00:00:21) last pick:  -4.4450 1.9050
+\i (00:00:22) pick grid 4.2344 0.5131
+\t (00:00:22) last pick:  4.4450 0.6350
+\t (00:00:22) last pick:  3.8100 0.0000
+\t (00:00:22) Pick new location for the element(s).
+\i (00:00:23) pick grid -0.9870 2.9552
+\t (00:00:23) last pick:  -1.2700 3.1750
+\i (00:00:24) pick grid -4.5354 1.5655
+\t (00:00:24) last pick:  -4.4450 1.2700
+\t (00:00:24) last pick:  -4.4450 1.9050
+\t (00:00:24) Pick new location for the element(s).
+\i (00:00:25) pick grid -3.5100 2.9417
+\t (00:00:25) last pick:  -3.8100 3.1750
+\i (00:00:25) pick grid -0.5013 2.6044
+\t (00:00:25) last pick:  -0.6350 2.5400
+\t (00:00:25) last pick:  -1.2700 3.1750
+\t (00:00:25) Pick new location for the element(s).
+\i (00:00:26) pick grid -3.2806 0.3377
+\t (00:00:26) last pick:  -3.1750 0.6350
+\i (00:00:26) pick grid 1.0098 4.3448
+\t (00:00:26) last pick:  1.2700 4.4450
+\t (00:00:26) last pick:  0.6350 4.4450
+\t (00:00:26) Pick new location for the element(s).
+\i (00:00:27) pick grid -0.0021 0.3107
+\t (00:00:27) last pick:  0.0000 0.0000
+\i (00:00:27) pick grid -1.3513 3.3734
+\t (00:00:27) last pick:  -1.2700 3.1750
+\i (00:00:27) pick grid -3.3211 -0.2559
+\t (00:00:27) last pick:  -3.1750 0.0000
+\i (00:00:28) drag_start grid 1.2662 -0.7686
+\i (00:00:28) drag_stop -2.0124 0.9449
+\t (00:00:28) last pick:  0.0000 0.0000
+\t (00:00:28) Pick new location for the element(s).
+\i (00:00:29) drag_start grid -0.8251 0.1758
+\i (00:00:29) drag_stop grid -9.0012 -1.2543
+\i (00:00:30) drag_start grid -3.3076 0.5131
+\i (00:00:30) drag_stop -6.9099 -0.3234
+\t (00:00:30) last pick:  -3.1750 0.6350
+\t (00:00:30) Pick new location for the element(s).
+\i (00:00:31) drag_start grid -3.1592 0.5941
+\i (00:00:31) drag_stop grid -1.9314 0.7020
+\i (00:00:32) pick grid -2.2147 0.0139
+\t (00:00:32) last pick:  -1.9050 0.0000
+\t (00:00:32) last pick:  -1.9050 0.6350
+\t (00:00:32) Pick new location for the element(s).
+\i (00:00:33) pick grid -6.0869 -0.6742
+\t (00:00:33) last pick:  -6.3500 -0.6350
+\i (00:00:33) pick grid -3.8608 3.1980
+\t (00:00:33) last pick:  -3.8100 3.1750
+\t (00:00:33) last pick:  -3.8100 3.1750
+\t (00:00:33) Pick new location for the element(s).
+\i (00:00:33) pick grid -1.7155 -0.3369
+\t (00:00:33) last pick:  -1.9050 -0.6350
+\i (00:00:34) pick grid -7.6385 2.2266
+\t (00:00:34) last pick:  -7.6200 2.5400
+\t (00:00:34) last pick:  -7.6200 2.5400
+\t (00:00:34) Pick new location for the element(s).
+\i (00:00:34) pick grid -4.0362 2.2266
+\t (00:00:34) last pick:  -3.8100 2.5400
+\i (00:00:35) drag_start grid -3.5504 2.3750
+\i (00:00:36) drag_stop -10.2559 0.3782
+\t (00:00:36) last pick:  -3.8100 2.5400
+\t (00:00:36) Pick new location for the element(s).
+\i (00:00:36) pick grid -4.1171 2.1321
+\t (00:00:36) last pick:  -3.8100 1.9050
+\i (00:00:37) drag_start grid -3.6584 1.9568
+\i (00:00:38) drag_stop 1.1448 1.1202
+\t (00:00:38) last pick:  -3.8100 1.9050
+\t (00:00:38) Pick new location for the element(s).
+\i (00:00:38) pick grid -2.8489 1.9702
+\t (00:00:38) last pick:  -2.5400 1.9050
+\i (00:00:39) move 
+\t (00:00:39) Select element(s) to move.
+\i (00:00:39) pick grid -2.7139 1.7814
+\t (00:00:39) last pick:  -2.5400 1.9050
+\t (00:00:39) last pick:  -2.5400 1.9050
+\t (00:00:39) Pick new location for the element(s).
+\i (00:00:40) pick grid -4.3060 -0.3099
+\t (00:00:40) last pick:  -4.4450 0.0000
+\i (00:00:41) move 
+\t (00:00:41) Select element(s) to move.
+\i (00:00:41) move 
+\t (00:00:41) Select element(s) to move.
+\i (00:00:41) move 
+\t (00:00:41) Select element(s) to move.
+\i (00:00:41) move 
+\t (00:00:41) Select element(s) to move.
+\i (00:00:42) pick grid -3.7663 -0.1480
+\t (00:00:42) last pick:  -3.8100 0.0000
+\t (00:00:42) last pick:  -4.4450 0.0000
+\t (00:00:42) Pick new location for the element(s).
+\i (00:00:42) pick grid -3.4290 -1.3758
+\t (00:00:42) last pick:  -3.1750 -1.2700
+\i (00:00:43) pick grid -0.8925 -0.3369
+\t (00:00:43) last pick:  -0.6350 -0.6350
+\i (00:00:43) pick grid -0.2584 -0.3504
+\t (00:00:43) last pick:  0.0000 -0.6350
+\i (00:00:43) pick grid 1.7249 -0.6067
+\t (00:00:43) last pick:  1.9050 -0.6350
+\i (00:00:43) drag_start grid 2.3051 -2.4956
+\i (00:00:44) drag_stop -12.0774 1.1877
+\i (00:00:46) prepopup -6.9774 2.6179
+\i (00:00:47) cancel 
+\i (00:00:47) shapeedit 
+\i (00:00:48) undo 
+\i (00:00:48) trapsize 675
+\i (00:00:48) shapeedit 
+\i (00:00:48) undo 
+\i (00:00:48) trapsize 675
+\i (00:00:48) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) trapsize 675
+\i (00:00:49) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) trapsize 675
+\i (00:00:49) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) trapsize 675
+\i (00:00:49) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) trapsize 675
+\i (00:00:49) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) trapsize 675
+\i (00:00:49) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) trapsize 675
+\i (00:00:49) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) trapsize 675
+\i (00:00:49) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) trapsize 675
+\i (00:00:49) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) shapeedit 
+\i (00:00:49) undo 
+\i (00:00:49) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:50) undo 
+\i (00:00:50) shapeedit 
+\i (00:00:51) undo 
+\i (00:00:51) shapeedit 
+\i (00:00:51) undo 
+\i (00:00:51) shapeedit 
+\i (00:00:51) exit 
+\e (00:00:51) Do you want to save the changes you made to HEADER_1x4P_2R54.dra?
+\i (00:00:52) fillin no 
+\t (00:00:52)     Journal end - Sat Sep 28 23:00:06 2024
